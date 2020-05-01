@@ -1,6 +1,8 @@
 # Hello-World
 This is My First Repository 
 
-BY: Marlene Azevedo
+By: Marlene Azevedo
  
  I love :coffee: :pizza: and :dancer: 
+
+
